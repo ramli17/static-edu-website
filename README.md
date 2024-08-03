@@ -1,0 +1,1 @@
+# static-edu-website
